@@ -1,6 +1,6 @@
 package edu.stanford.cs108.tetris;
 
-// Brain.java -- the interface for Tetris brains
+// Brain.java change -- the interface for Tetris brains
 
 public interface Brain {
     // Move is used as a struct to store a single Move
